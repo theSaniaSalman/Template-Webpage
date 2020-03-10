@@ -111,6 +111,23 @@ color:grey;
 float:right;
 margin-right:15px;
 }
+#footer{
+margin-top:950px;
+padding:60px 180px 60px 180px;
+background-color: white;;
+}
+#footer-text{
+font-size:18px;
+color:grey;
+}
+#footer a{
+text-decoration: none;
+}
+#back{
+float:right;
+padding-right: 5px;;
+font-size:18px;
+}
 
 
 
